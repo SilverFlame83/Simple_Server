@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/SilverFlame83/Simple_Server#readme",
   "dependencies": {
+    "ejs": "^3.1.6",
     "express": "^4.17.1"
   }
 }
